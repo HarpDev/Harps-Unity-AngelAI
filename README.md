@@ -9,6 +9,6 @@ SO I WAS INSPIRED TO MAKE MY OWN!
 
 Included-
 
--Simple First Person PlayerController
+-Kitbashed Simple First Person PlayerController
 -WeepingAngel Script
 -Basic Sounds for actions performed by WeepingAngel
