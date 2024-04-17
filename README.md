@@ -10,5 +10,7 @@ SO I WAS INSPIRED TO MAKE MY OWN!
 Included-
 
 -Kitbashed Simple First Person PlayerController
+-UI Sway Script
+-Flashlight Sway Script
 -WeepingAngel Script
 -Basic Sounds for actions performed by WeepingAngel
