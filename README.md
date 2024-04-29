@@ -14,3 +14,9 @@ Included-
 -Flashlight Sway Script
 -WeepingAngel Script
 -Basic Sounds for actions performed by WeepingAngel
+
+
+
+DEPENDANCIES
+
+So far, the only required dependancy is AI tools and features for unityengine, to reference navmesh agents and the like
