@@ -20,3 +20,4 @@ Included-
 DEPENDANCIES
 
 So far, the only required dependancy is AI tools and features for unityengine, to reference navmesh agents and the like
+This was built on 2022.3.15f1, although it should work on most versions after that. 
